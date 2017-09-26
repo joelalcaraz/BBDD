@@ -3,5 +3,5 @@
 1. Per començar crearem el fitxer amb la següent comanda: (he fet servir el editor VI ja que no tenia el nano instal·lat, però també funcionaria amb aquest últim)
 
 2. Un cop dintre, haurem d’afegir tota la informació al repositori.
-..*	En cas que es faci amb l’editor VI, per guardar l’arxiu s’haurà de fer de la següent manera:
-...* i.	Si esteu en el mode Insert (com es veu sota de la il·lustració), premeu la tecla Esc . Fet això hauríeu d’haver sortit ja del mode Insert.
+*	En cas que es faci amb l’editor VI, per guardar l’arxiu s’haurà de fer de la següent manera:
+* Si esteu en el mode Insert (com es veu sota de la il·lustració), premeu la tecla Esc . Fet això hauríeu d’haver sortit ja del mode Insert.
