@@ -11,8 +11,10 @@
         Fet això hauríeu d’haver sortit ja del mode Insert.
       * Un cop fora d’aquest mode, premeu Ctrl+C  i hauria d’aparèixer aquesta frase on apareixia abans l’Insert
       ![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/2.png)
-      * Un cop aquí, premeu Shift + ; , podreu tornar escriure, escriviu x  després dels dos punts, i enter per sortir.
-      ![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/3.png)
+      * Un cop aquí, premeu Shift + ; , podreu tornar escriure, escriviu x  després dels dos punts, i enter per sortir.+
+      
+      
+![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/3.png)
       
 3. Abans de continuar, haurem d’assegurar-nos que s’ha creat el “repositori”, per fer-ho utilitzarem la següent comanda:
    Amb el "repositori al seu lloc, ja podrem continuar la instal·lació.
