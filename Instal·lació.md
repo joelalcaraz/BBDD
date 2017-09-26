@@ -1,6 +1,6 @@
 **__Procés per instal·lar MongoDB__**
 
-1. Per començar crearem el fitxer amb la següent comanda: (he fet servir el editor VI ja que no tenia el nano instal·lat,
+1. Per començar crearem el fitxer amb la següent comanda: (he fet servir l'editor VI ja que no tenia el nano instal·lat,
    però també funcionaria amb aquest últim)
    
    ![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/1.png)
@@ -29,4 +29,18 @@
    
    (Exemple per confirmar)
 
-![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/6.png)
+   ![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/6.png)
+
+5. Un cop instal·lat, utilitzant la comanda *systemctl* iniciarem el servei:
+   
+   ![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/7.png)
+   
+   * I per assegurar-nos que està en marxa consultarem el *log* del Mongo
+   
+     ![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/8.png)
+   
+   * Amb l'última línia ens assegurem que està esperant una connexió, és a dir, que està en marxa.
+   
+     ![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/9.png)
+
+
