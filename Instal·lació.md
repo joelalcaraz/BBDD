@@ -10,14 +10,21 @@
       * Si esteu en el mode Insert (com es veu sota de la il·lustració), premeu la tecla Esc . 
         Fet això hauríeu d’haver sortit ja del mode Insert.
       * Un cop fora d’aquest mode, premeu Ctrl+C  i hauria d’aparèixer aquesta frase on apareixia abans l’Insert
-      
+      ![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/2.png)
       * Un cop aquí, premeu Shift + ; , podreu tornar escriure, escriviu x  després dels dos punts, i enter per sortir.
+      ![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/3.png)
       
 3. Abans de continuar, haurem d’assegurar-nos que s’ha creat el “repositori”, per fer-ho utilitzarem la següent comanda:
    Amb el "repositori al seu lloc, ja podrem continuar la instal·lació.
 
+   ![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/4.png)
+   
 4. Per instal·lar farem servir la comanda Yum install mongdb-org , com es veu a continuació:
    Durant el procés, ens anirà preguntarà dues vegades si ***[És correcte [s/N]]*** .
    El primer permets la instal·lació del paquet de MongoDB, en el segon, importes la clau GPG.
    
+   ![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/5.png)
+   
    (Exemple per confirmar)
+
+![](https://github.com/joelalcaraz/BBDD/blob/Instal%C2%B7laci%C3%B3/6.png)
