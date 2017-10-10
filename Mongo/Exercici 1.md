@@ -1,6 +1,7 @@
 ### Procés per instal•lar MongoDB
 
 1- Per començar crearem el fitxer amb la següent comanda: (he fet servir el editor VI ja que no tenia el nano instal•lat, però també funcionaria amb aquest últim)
+
 ![](https://github.com/joelalcaraz/BBDD/blob/master/ImatgesMongo/1.png)
 
 2- Un cop dintre, haurem d’afegir tota la informació al repositori.
