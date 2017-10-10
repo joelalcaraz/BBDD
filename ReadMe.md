@@ -15,4 +15,5 @@
 # MONGODB
 
 1- [Creació del repositori i instal·lació](https://github.com/joelalcaraz/BBDD/blob/master/Mongo/Exercici%201.md)
+
 2- [Accés al MongoDB](https://github.com/joelalcaraz/BBDD/blob/master/Mongo/Exercici%202.md)
