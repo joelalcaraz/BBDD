@@ -8,7 +8,7 @@
     Haurem de modificar el número de processos que fa, editant el fitxer: 
     
 ![](https://github.com/joelalcaraz/BBDD/blob/master/ImatgesMongo/10.png)
-    
+
     ***/etc/security/límits.d/20-nproc.conf ***
     
     I afegint al final de l’arxiu:
