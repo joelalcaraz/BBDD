@@ -4,11 +4,7 @@
 ![](https://github.com/joelalcaraz/BBDD/blob/master/ImatgesMongo/1.png)
 
 2- Un cop dintre, haurem d’afegir tota la informació al repositori.
-  ***[mongodb-org-3.4]
-  
-		Name=MongoDB Repository
-      
-	  Baseurl=https://www.mongodb.org/static/pgp/server-3.4.asc***
+  ***[mongodb-org-3.4]  Name=MongoDB Repository  Baseurl=https://www.mongodb.org/static/pgp/server-3.4.asc***
     
 ![](https://github.com/joelalcaraz/BBDD/blob/master/ImatgesMongo/2.png)  
 
