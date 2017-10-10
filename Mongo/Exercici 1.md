@@ -16,6 +16,7 @@
 
 4- Per instal•lar farem servir la comanda Yum install mongdb-org , com es veu a continuació:
   Durant el procés, ens anirà preguntarà dues vegades si És correcte {s/N}:.El primer permets la instal•lació del paquet de MongoDB, en el segon, importes la clau GPG.
+  
   ![](https://github.com/joelalcaraz/BBDD/blob/master/ImatgesMongo/4.png)  
   
   ![](https://github.com/joelalcaraz/BBDD/blob/master/ImatgesMongo/5.png)  
