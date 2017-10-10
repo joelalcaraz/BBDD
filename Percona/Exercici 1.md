@@ -22,3 +22,8 @@
   Finalment s'ens mostrarà un resum de la transacció i dels paquets que la composen incluint els dependents. (Haurem de confirmar-los)
   
   ![](https://github.com/joelalcaraz/BBDD/blob/master/Imatges/7.png)
+  
+  ![](https://github.com/joelalcaraz/BBDD/blob/master/Imatges/8.png)
+  
+  Un cop haguem confirmat, començarà la instal·lació.
+  ![](https://github.com/joelalcaraz/BBDD/blob/master/Imatges/9.png)
