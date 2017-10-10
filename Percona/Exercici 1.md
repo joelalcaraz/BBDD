@@ -7,8 +7,8 @@
 
 2- Confirmarem que s'han instal·lat correctament els repositoris
   Ho farem amb la comanda: ***yum list | grep percona***
-  ![](https://github.com/joelalcaraz/BBDD/blob/master/Imatges/4.png)
+  ![](https://github.com/joelalcaraz/BBDD/blob/master/Imatges/4.png) <Enter>
   Aquesta comanda ens mostrarà la llista dels paquets del repositori
-  ![](https://github.com/joelalcaraz/BBDD/blob/master/Imatges/5.png)
+  ![](https://github.com/joelalcaraz/BBDD/blob/master/Imatges/5.png) <Enter>
   
 3- 
