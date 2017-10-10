@@ -1,4 +1,4 @@
-# 1.	Un cop realitzada la instal•lació realitza una securització de la mateixa. Quin programa realitza aquesta tasca? Realitza una securització de la instal•lació indicant que la contrasenya de root sigui patata.
+### 1.	Un cop realitzada la instal•lació realitza una securització de la mateixa. Quin programa realitza aquesta tasca? Realitza una securització de la instal•lació indicant que la contrasenya de root sigui patata.
 
 
 **Primer cargarem la màquina on tenim el nostre CentOS i ens loguejem amb ella amb les credencials.**
